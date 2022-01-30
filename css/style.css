@@ -506,9 +506,10 @@ h1 {
 .most_treading_action_section {
     width: 1146px;
     height: 519px;
-    margin: 230px 0 80px 227px;
+    margin: 205px 0 80px 227px;
     padding: 0 0 0 0;
-    background-color: rgb(255, 255, 255);
+    
+    
     
 }
 .most_treading_action_title {
